@@ -3,6 +3,7 @@
     * [Redis为什么可以支撑10W+QPS](redis-introduction/why.md)
     * [Redis各个版本特性解读](redis-introduction/versions.md)
     * [Redis的安装](redis-introduction/install.md)
+    * [Redis配置详解](redis-introduction/config.md)
     * [项目介绍](redis-introduction/linked_list/)
     * [数据库表设计](redis-introduction/heap/)
     * [项目结构与微服务搭建](redis-introduction/stack/)
