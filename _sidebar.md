@@ -1,0 +1,18 @@
+* [简介](/)
+* Redis快速入门
+    * [Redis为什么可以支撑10W+QPS](redis-introduction/why.md)
+    * [Redis的安装](redis-introduction/string/)
+    * [项目介绍](redis-introduction/linked_list/)
+    * [数据库表设计](redis-introduction/heap/)
+    * [项目结构与微服务搭建](redis-introduction/stack/)
+* Redis基础数据类型与基本使用
+    * Redis基本数据类型
+        * [字符串](algorithm/sort/heap/)
+        * [散列](algorithm/sort/quick/)
+        * [列表](algorithm/sort/bubble/)
+        * [集合](algorithm/sort/other/)
+        * [有序集合](algorithm/sort/other/)
+    * 基本使用
+        * [Redis令牌保存](algorithm/research/dfs/)
+        * [登录业务完善](algorithm/research/bfs/)
+        * [完成注册业务](algorithm/research/binary-search/)
