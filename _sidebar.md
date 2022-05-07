@@ -4,16 +4,17 @@
     * [Redis各个版本特性解读](redis-introduction/versions.md)
     * [Redis的安装](redis-introduction/install.md)
     * [Redis配置详解](redis-introduction/config.md)
+    * [SpringBoot整合Redis](redis-introduction/SpringBoot-Redis.md)
     * [项目介绍](redis-introduction/linked_list/)
     * [数据库表设计](redis-introduction/heap/)
     * [项目结构与微服务搭建](redis-introduction/stack/)
 * Redis基础数据类型与基本使用
     * Redis基本数据类型
-        * [字符串](algorithm/sort/heap/)
-        * [散列](algorithm/sort/quick/)
-        * [列表](algorithm/sort/bubble/)
-        * [集合](algorithm/sort/other/)
-        * [有序集合](algorithm/sort/other/)
+        * [字符串](common/data_type/String.md)
+        * [散列](common/data_type/Hash.md)
+        * [列表](common/data_type/List.md)
+        * [集合](common/data_type/Connection.md)
+        * [有序集合](common/data_type/Set.md)
     * 基本使用
         * [Redis令牌保存](algorithm/research/dfs/)
         * [登录业务完善](algorithm/research/bfs/)
